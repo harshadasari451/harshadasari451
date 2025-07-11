@@ -22,37 +22,13 @@ I enjoy solving real-world problems using AI — from financial complaint classi
 
 ## 💻 Technical Skills
 
-### 💬 Languages
-- Python 🐍
-- Java ☕
-- C/C++
-- SQL
-- HTML/CSS
-
-### 🧰 Libraries & Frameworks
-- PyTorch ⚡️
-- TensorFlow
-- Keras
-- Transformers (Hugging Face 🤗)
-- NLTK
-- SpaCy
-- Pandas
-- NumPy
-- Seaborn
-- Matplotlib
-
-### 🧠 Specialties
-- Transformers & Attention Mechanisms
-- NLP & Text Generation
-- Computer Vision (CNNs, ResNet, BLIP-2)
-- Generative Models (VAEs, GANs)
-- Statistical & Exploratory Data Analysis
-
-### ☁️ Tools
-- AWS (S3, SES, Lambda, Amplify)
-- Git & GitHub
-- React.js ⚛️
-- Streamlit
+| 💬 Languages    | 🧰 Libraries & Frameworks                | 🧠 Specialties                  | ☁️ Tools                        |
+|-----------------|----------------------------------------|-------------------------------|--------------------------------|
+| Python 🐍       | PyTorch ⚡️, TensorFlow, Keras          | Transformers & Attention     | AWS (S3, SES, Lambda, Amplify)|
+| Java ☕         | Transformers (Hugging Face 🤗)          | NLP & Text Generation       | Git & GitHub                   |
+| C/C++          | NLTK, SpaCy, Pandas, NumPy             | Computer Vision (CNNs, ResNet, BLIP-2) | React.js ⚛️, Streamlit      |
+| SQL            | Seaborn, Matplotlib                    | Generative Models (VAEs, GANs) |                                |
+| HTML/CSS       |                                        | Statistical & EDA           |                                |
 
 ---
 
