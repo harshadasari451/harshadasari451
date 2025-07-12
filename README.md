@@ -46,7 +46,7 @@ I enjoy solving real-world problems using AI — from financial complaint classi
 - Built a sentiment analysis model using multi-head and additive attention on real-time NASDAQ data.
 - Improved market insight prediction accuracy by 25%.
 
-### 🤖 Multitasking Central Net (Uni-Modality NLP)
+### 🤖 [Multitasking Central Net](https://github.com/harshadasari451/Multitasking-Central-Net)
 - Developed a unified NLP model for multitask learning (severity, cause, sentiment, emotion).
 - Achieved 92% complaint classification and 88% sentiment classification accuracy.
 
