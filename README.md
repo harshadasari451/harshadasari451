@@ -32,8 +32,16 @@ I enjoy solving real-world problems using AI — from financial complaint classi
 
 ---
 
-## 💡 Selected Projects
+## 💡 Projects
 
+### ⚡ PDE Meta-Learning Framework
+- Designed a meta-learning framework for predicting solutions to 3D partial differential equations (PDEs) using pretrained 2D models.
+- Enhanced efficiency and scalability for computational science applications.
+
+### 🧬 Hybrid Hypernetwork for PDE Modeling
+- Developed hybrid hypernetworks to model complex PDE systems.
+- Improved representation learning and reduced computational overhead for scientific simulations.
+  
 ### 🏦 GAUSEE-FM: Generative AI for Finance
 - Built a sentiment analysis model using multi-head and additive attention on real-time NASDAQ data.
 - Improved market insight prediction accuracy by 25%.
@@ -49,14 +57,6 @@ I enjoy solving real-world problems using AI — from financial complaint classi
 ### 💥 Bankruptcy Forecasting via Unsupervised-Supervised Model Fusion
 - Achieved 96% recall by integrating unsupervised clustering with ensemble models (Random Forest, XGBoost).
 - Used minimal features for enhanced interpretability.
-
-### ⚡ PDE Meta-Learning Framework
-- Designed a meta-learning framework for predicting solutions to 3D partial differential equations (PDEs) using pretrained 2D models.
-- Enhanced efficiency and scalability for computational science applications.
-
-### 🧬 Hybrid Hypernetwork for PDE Modeling
-- Developed hybrid hypernetworks to model complex PDE systems.
-- Improved representation learning and reduced computational overhead for scientific simulations.
 
 ### 🛰️ Lazy Landmark Finder
 - Fine-tuned a pre-trained CNN to recognize and localize famous landmarks from low-quality images.
