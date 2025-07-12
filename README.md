@@ -34,23 +34,40 @@ I enjoy solving real-world problems using AI — from financial complaint classi
 
 ## 💡 Selected Projects
 
-### 🏦 [GAUSEE-FM: Generative AI for Finance](#)
-- Sentiment analysis on real-time NASDAQ data using multi-head and additive attention.
-- Improved financial market insight prediction accuracy by 25%.
+### 🏦 GAUSEE-FM: Generative AI for Finance
+- Built a sentiment analysis model using multi-head and additive attention on real-time NASDAQ data.
+- Improved market insight prediction accuracy by 25%.
 
-### 🤖 [Multitasking Central Net (Uni-Modality NLP)](#)
-- Unified model for multitask learning (severity, cause, sentiment, emotion).
-- Achieved 92% complaint and 88% sentiment classification accuracy.
+### 🤖 Multitasking Central Net (Uni-Modality NLP)
+- Developed a unified NLP model for multitask learning (severity, cause, sentiment, emotion).
+- Achieved 92% complaint classification and 88% sentiment classification accuracy.
 
-### 💬 [Career Path Advisor](#)
+### 💬 Career Path Advisor
 - Built using LLaMA on AWS Bedrock for Stevens ADP Hackathon.
-- Simulates compensation trajectories and career switch visualizations.
+- Simulates compensation trajectories, upskilling outcomes, and career switch scenarios.
 
-### 💥 [Bankruptcy Forecasting](#)
-- Integrated unsupervised clustering with ensemble models (Random Forest, XGBoost).
-- Achieved 96% recall with minimal features.
+### 💥 Bankruptcy Forecasting via Unsupervised-Supervised Model Fusion
+- Achieved 96% recall by integrating unsupervised clustering with ensemble models (Random Forest, XGBoost).
+- Used minimal features for enhanced interpretability.
+
+### ⚡ PDE Meta-Learning Framework
+- Designed a meta-learning framework for predicting solutions to 3D partial differential equations (PDEs) using pretrained 2D models.
+- Enhanced efficiency and scalability for computational science applications.
+
+### 🧬 Hybrid Hypernetwork for PDE Modeling
+- Developed hybrid hypernetworks to model complex PDE systems.
+- Improved representation learning and reduced computational overhead for scientific simulations.
+
+### 🛰️ Lazy Landmark Finder
+- Fine-tuned a pre-trained CNN to recognize and localize famous landmarks from low-quality images.
+- Designed for efficient on-device landmark recognition applications.
+
+### 📊 Financial Aspect & Complaint Extractor
+- Developed a multi-modal BERT + ResNet model for financial complaint and aspect classification (90% accuracy).
+- Built a generative model for summarizing complaint data, improving query response relevance by 40%.
 
 ---
+
 
 ## 📝 Publications
 
