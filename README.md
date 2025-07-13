@@ -34,13 +34,13 @@ I enjoy solving real-world problems using AI — from financial complaint classi
 
 ## 💡 Projects
 
-### ⚡ PDE Meta-Learning Framework
-- Designed a meta-learning framework for predicting solutions to 3D partial differential equations (PDEs) using pretrained 2D models.
+### ⚡ [PDE Meta-Learning Framework](https://github.com/harshadasari451/extrusion-networks)
+- Designed a meta-learning framework for predicting solutions to 2D partial differential equations (PDEs) using pretrained 1D models with minimal 2d Data.
 - Enhanced efficiency and scalability for computational science applications.
 
-### 🧬 Hybrid Hypernetwork for PDE Modeling
-- Developed hybrid hypernetworks to model complex PDE systems.
-- Improved representation learning and reduced computational overhead for scientific simulations.
+### 🧬 [Hypernetworks based semantic Segmentation](https://github.com/harshadasari451/Hypernetworks-on-semantic-Segmentation)
+- developing efficient neural Newtwork architecture using Hypernetworks to reduce computational cost in segmentation tasks while enhancing prediction
+accuracy
   
 ### 🏦 GAUSEE-FM: Generative AI for Finance
 - Built a sentiment analysis model using multi-head and additive attention on real-time NASDAQ data.
