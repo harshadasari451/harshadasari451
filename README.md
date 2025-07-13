@@ -50,7 +50,7 @@ accuracy
 - Developed a unified NLP model for multitask learning (severity, cause, sentiment, emotion).
 - Achieved 92% complaint classification and 88% sentiment classification accuracy.
 
-### 💬 Career Path Advisor
+### 💬 [Career Path Advisor](https://github.com/harshadasari451/career-advisor_path-finder)
 - Built using LLaMA on AWS Bedrock for Stevens ADP Hackathon.
 - Simulates compensation trajectories, upskilling outcomes, and career switch scenarios.
 
