@@ -99,4 +99,4 @@ I’m always excited to discuss new research ideas, AI applications in finance a
 ---
 
 ### 📄 Resume
-You can find my updated resume [here](https://sites.google.com/view/harsha-vardhan-dasari/home)
+Update coming soon, Please reach out at Hdasari@stevens.edu
