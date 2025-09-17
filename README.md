@@ -72,7 +72,7 @@ accuracy
 ## 📝 Publications
 
 - **Let’s Decipher the Origin: Multi-modal Aspect-based Explainable Complaints in Finance**  
-  *IEEE Transactions on Computational Social Systems (Under Review)*  
+  *IEEE Transactions on Computational Social Systems - IMPACT SCORE - 4.9*  
   - Proposed F-ACE model using BLIP-2, Sentence Transformers, ResNet-152.
   - Improved cross-domain complaint classification by 25% over SOTA.
   - Enhanced explainability with BART-large.
