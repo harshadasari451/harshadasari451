@@ -13,6 +13,11 @@ I enjoy solving real-world problems using AI — from financial complaint classi
 - **Research Assistant** at Stevens SCAI Lab
   - Developing meta-learning-based models for 3D PDEs from pretrained 2D models.
   - Designing efficient neural architectures for segmentation on edge/embedded systems.
+    
+- **Course Assistant** For CS584 - NLP Graduate course in stevens
+  - Assist in teaching graduate-level Natural Language Processing by clarifying concepts, holding office hours, and supporting
+student projects
+  - Collaborate with faculty to design assignments, grade coursework, and provide feedback on NLP models and applications
 
 - **Undergraduate Research Intern** at IIT Patna AI/NLP Research Lab
   - Developed a multi-modal BERT + ResNet model for financial complaints (90% accuracy).
