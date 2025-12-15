@@ -39,7 +39,7 @@ student projects
 
 ## 💡 Projects
 
-### ⚡ [PDE Meta-Learning Framework](https://github.com/harshadasari451/extrusion-networks)
+### ⚡ [Extrusion Networks](https://github.com/harshadasari451/extrusion-networks)
 - Designed a meta-learning framework for predicting solutions to 2D partial differential equations (PDEs) using pretrained 1D models with minimal 2d Data.
 - Enhanced efficiency and scalability for computational science applications.
 
