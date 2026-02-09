@@ -24,21 +24,7 @@ I'm passionate about building **production-grade AI/ML systems** that solve real
 
 <div align="center">
 
-## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=harshadasari451&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshadasari451&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harshadasari451&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></td>
-  </tr>
-</table>
-
-</div>
-
----
 
 ## 💻 Technical Skills
 
