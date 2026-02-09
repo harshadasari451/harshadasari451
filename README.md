@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-🎓 **MS in Computer Science** @ **Stevens Institute of Technology** | **GPA: 3.95**  
+🎓 **MS in Computer Science** @ **Stevens Institute of Technology** | **GPA: 3.97**  
 🔬 AI Researcher specializing in **Machine Learning, Deep Learning, NLP, Computer Vision**, and **Computational Science**  
 💼 **Actively seeking full-time opportunities** in **Data Analytics, Data Engineering, Data Science, ML Engineering, and AI Engineering**
 
