@@ -22,9 +22,7 @@
 
 I'm passionate about building **production-grade AI/ML systems** that solve real-world problems — from financial complaint classification to bankruptcy forecasting, cutting-edge PDE modeling using meta-learning, and end-to-end ML pipelines. I thrive at the intersection of research and engineering, transforming innovative ideas into scalable solutions.
 
-<div align="center">
-
-
+---
 
 ## 💻 Technical Skills
 
