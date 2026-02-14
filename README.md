@@ -116,7 +116,7 @@ I'm passionate about building **production-grade AI/ML systems** that solve real
 
 🔥 Actively developing **production-grade ML/AI systems** with focus on:
 - End-to-end ML pipelines with MLOps best practices
-- RAG systems and LLM applications for real-world use cases
+- Extrusion Networks for scientific Machine learning 
 - Real-time data engineering pipelines for streaming analytics
 - Multi-agent AI systems with advanced orchestration
 
