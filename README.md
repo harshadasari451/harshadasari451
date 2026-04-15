@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Harsha Vardhan Dasari!
 
-### 🎯 AI Researcher | ML Engineer | Data Scientist
+### 🎯 Machine Learning Engineer
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harsha-vardhan-dasari-460b23200/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
