@@ -1,8 +1,8 @@
 <div align="center">
-  
-# 👋 Hi, I'm Harsha Vardhan Dasari!
 
-### 🎯 Machine Learning Engineer
+# 👋 Hi, I'm Harsha Vardhan Dasari
+
+### ML Engineer | Scientific ML | NLP | LLM Systems
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harsha-vardhan-dasari-460b23200/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -16,11 +16,11 @@
 
 ## 🚀 About Me
 
-🎓 **MS in Computer Science** @ **Stevens Institute of Technology** | **GPA: 3.97**  
-🔬 AI Researcher specializing in **Machine Learning, Deep Learning, NLP, Computer Vision**, and **Computational Science**  
-💼 **Actively seeking full-time opportunities** in **Data Analytics, Data Engineering, Data Science, ML Engineering, and AI Engineering**
+🎓 **MS in Computer Science** @ **Stevens Institute of Technology** (GPA: **3.97**, May 2026)  
+🔬 Research focus: **Scientific Machine Learning, Deep Learning, NLP, Multimodal AI, and LLM Systems**  
+💼 Open to full-time roles in **ML Engineering, AI Engineering, and Data Science**
 
-I'm passionate about building **production-grade AI/ML systems** that solve real-world problems — from financial complaint classification to bankruptcy forecasting, cutting-edge PDE modeling using meta-learning, and end-to-end ML pipelines. I thrive at the intersection of research and engineering, transforming innovative ideas into scalable solutions.
+I build production-oriented AI/ML systems and research-driven models — from multimodal financial complaint intelligence to physics-guided learning for high-dimensional PDE simulation.
 
 ---
 
@@ -29,188 +29,137 @@ I'm passionate about building **production-grade AI/ML systems** that solve real
 ### 💬 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### 🤖 ML/DL Frameworks
+### 🤖 ML / DL / AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-FF6F00?style=for-the-badge&logo=google&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-### 🔧 Data Engineering
+### 🧠 NLP / Multimodal / GenAI
+![BERT](https://img.shields.io/badge/BERT-FF6F00?style=for-the-badge&logo=google&logoColor=white)
+![ResNet](https://img.shields.io/badge/ResNet-0A66C2?style=for-the-badge&logo=pytorch&logoColor=white)
+![FinBERT](https://img.shields.io/badge/FinBERT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![BART](https://img.shields.io/badge/BART-FF6F00?style=for-the-badge&logo=meta&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### ⚙️ Data / Backend / MLOps
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-### 🧠 LLM & AI
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAxMkwxMiAyMkwyMiAxMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### 📊 Data & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 📝 NLP
-![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT-FF6F00?style=for-the-badge&logo=google&logoColor=white)
-![GPT](https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![BART](https://img.shields.io/badge/BART-FF6F00?style=for-the-badge&logo=meta&logoColor=white)
-
-### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
 ## 💼 Experience
 
-**🔬 Research Assistant** | Stevens SCAI Lab  
-- Developing meta-learning-based models for 3D PDEs from pretrained 2D models
-- Designing efficient neural architectures for segmentation on edge/embedded systems
+### 🔬 Machine Learning Research Assistant — Stevens Institute of Technology (SCAI Lab)
+**Jan 2025 – Present | Hoboken, NJ**
+- Designed a lightweight hypernetwork architecture (~500K params) that achieved **30% lower cumulative MSE** vs. FNO/UNet/ResNet baselines for scientific PDE tasks.
+- Built transfer learning pipelines in **PyTorch + JAX** to map 1D to 2D spatial representations, enabling **4–6× higher experimental throughput**.
+- Optimized custom JAX data loaders and model architecture, reducing training time from **~7 min/epoch to ~25 sec/epoch (16.8× speedup)**.
 
-**👨‍🏫 Course Assistant** | CS584 - NLP Graduate Course @ Stevens  
-- Teaching graduate-level Natural Language Processing, holding office hours, and supporting student projects
-- Collaborating with faculty to design assignments and provide feedback on NLP models
+### 👨‍🏫 NLP Course Assistant — Stevens Institute of Technology (CS Department)
+**Sep 2025 – Dec 2025 | Hoboken, NJ**
+- Mentored **40 graduate students** on LLMs, RAG, agentic AI, and transformer modeling.
+- Supported coding assignments and evaluation strategy design, contributing to a **15% increase in average assignment scores**.
 
-**🎓 Undergraduate Research Intern** | IIT Patna AI/NLP Research Lab  
-- Developed multi-modal BERT + ResNet model for financial complaints (90% accuracy)
-- Created generative summarization models with 40% improved response relevance
+### 🧪 NLP Research Intern — IIT Patna (AI/NLP Lab)
+**Jun 2023 – May 2024 | Patna, India**
+- Implemented the **F-ACE** multimodal framework, reaching **90% complaint classification accuracy** on financial complaint datasets.
+- Built explainable GenAI pipelines with fine-tuned **BART-Large**, improving support efficiency by **60%**.
+- Automated benchmarking (BLEU/ROUGE/TensorFlow metrics) for 10K+ multimodal samples, reducing manual evaluation time by **33%**.
 
 ---
 
 ## 🚀 Currently Building
 
-🔥 Actively developing **production-grade ML/AI systems** with focus on:
+🔥 Actively developing production-grade ML/AI systems with focus on:
+
 - End-to-end ML pipelines with MLOps best practices
-- Extrusion Networks for scientific Machine learning 
+- Extrusion Networks for scientific Machine learning
 - Real-time data engineering pipelines for streaming analytics
 - Multi-agent AI systems with advanced orchestration
 
 ---
 
-## 💡 Featured Projects
+## 🚀 Featured Projects
+
+### 🔍 [Fraud Lens AI](https://github.com/harshadasari451)
+AI-powered fraud detection web platform with interpretable risk scoring.
+- Delivered **~90% lower cost** than LLM-based alternatives with only **~3% accuracy tradeoff**.
+- Combined 6 forensic image signals + stylometric features with a React + FastAPI + Docker stack.
 
 ### 🔄 [End-to-End ML Pipeline](https://github.com/harshadasari451/ml-pipeline-churn-prediction)
-Full production ML pipeline: data ingestion → feature engineering → model training → FastAPI deployment → Docker containerization  
-**Tech:** Apache Airflow, MLflow, FastAPI, Docker, scikit-learn, XGBoost
+Production ML lifecycle from ingestion to deployment.
+- Pipeline: data ingestion → feature engineering → model training → FastAPI serving → Docker.
+- **Tech:** Airflow, MLflow, FastAPI, Docker, scikit-learn, XGBoost
 
 ### 🤖 [RAG Research Paper Q&A](https://github.com/harshadasari451/rag-research-qa)
-Retrieval Augmented Generation system for intelligent research paper chatbot  
-**Tech:** LangChain, OpenAI, ChromaDB, Streamlit
-
-### 🔧 [Real-Time Data Engineering Pipeline](https://github.com/harshadasari451/data-engineering-pipeline)
-Streaming ETL pipeline for financial data processing with orchestration and transformation  
-**Tech:** Apache Airflow, Spark, PostgreSQL, dbt, AWS S3
-
-### 📊 [US Job Market Analytics Dashboard](https://github.com/harshadasari451/job-market-analytics)
-Deep exploratory data analysis with compelling visualizations and storytelling on job market trends  
-**Tech:** Pandas, SQL, Plotly, Jupyter
+Research paper assistant using retrieval-augmented generation.
+- **Tech:** LangChain, OpenAI, ChromaDB, Streamlit
 
 ### 🧠 [Multi-Agent AI System](https://github.com/harshadasari451/multi-agent-ai-system)
-AI agent system using LangGraph with tool-use capabilities and advanced orchestration  
-**Tech:** LangChain, LangGraph, OpenAI, Streamlit
+Agent-based AI system using graph-style orchestration and tool use.
+- **Tech:** LangChain, LangGraph, OpenAI, Streamlit
 
 ### ⚡ [Extrusion Networks](https://github.com/harshadasari451/extrusion-networks)
-Meta-learning framework for predicting 2D PDE solutions using pretrained 1D models with minimal data  
-**Tech:** PyTorch, Meta-Learning, Computational Science
-
-### 🧬 [Hypernetworks-based Semantic Segmentation](https://github.com/harshadasari451/Hypernetworks-on-semantic-Segmentation)
-Efficient neural architecture using Hypernetworks to reduce computational cost while enhancing segmentation accuracy  
-**Tech:** PyTorch, Hypernetworks, Computer Vision
+Meta-learning framework for PDE solution prediction across dimensions.
+- **Tech:** PyTorch, JAX, Meta-learning, Scientific ML
 
 ### 🏦 GAUSEE-FM: Generative AI for Finance
-Sentiment analysis model using multi-head and additive attention on real-time NASDAQ data (25% accuracy improvement)  
-**Tech:** Transformers, Attention Mechanisms, Financial Data Analysis
-
-### 🤖 [Multitasking Central Net](https://github.com/harshadasari451/Multitasking-Central-Net)
-Unified NLP model for multitask learning achieving 92% complaint classification and 88% sentiment accuracy  
-**Tech:** BERT, Multi-task Learning, NLP
+- Achieved **93% sentiment accuracy** on real-time NASDAQ-related financial data.
+- Outperformed BERT/BiLSTM baselines by up to **25%** with dual-attention + FinBERT.
 
 ### 💬 [Career Path Advisor](https://github.com/harshadasari451/career-advisor_path-finder)
-Built using LLaMA on AWS Bedrock - simulates compensation trajectories, upskilling outcomes, and career scenarios  
-**Tech:** AWS Bedrock, LLaMA, Generative AI
-
-### 💥 Bankruptcy Forecasting via Unsupervised-Supervised Model Fusion
-96% recall achieved by integrating unsupervised clustering with ensemble models  
-**Tech:** Random Forest, XGBoost, Clustering, Ensemble Methods
-
-### 🛰️ Lazy Landmark Finder
-Fine-tuned CNN for efficient on-device landmark recognition from low-quality images  
-**Tech:** Transfer Learning, CNN, Computer Vision
-
-### 📊 Financial Aspect & Complaint Extractor
-Multi-modal BERT + ResNet model (90% accuracy) with generative summarization (40% improved relevance)  
-**Tech:** BERT, ResNet, Multi-modal Learning, Generative Models
+LLaMA-powered advisor for compensation and upskilling scenario simulation.
+- **Tech:** AWS Bedrock, LLaMA, Generative AI
 
 ---
 
 ## 📝 Publications
 
-**Let's Decipher the Origin: Multi-modal Aspect-based Explainable Complaints in Finance**  
-*Accepted at IEEE Transactions on Computational Social Systems - Top International Q1 Journal*  
-- Proposed F-ACE model using BLIP-2, Sentence Transformers, and ResNet-152
-- Improved cross-domain complaint classification by 25% over SOTA
-- Enhanced explainability with BART-large
+### 📄 Peer-Reviewed
+- **S. Das, A. Deo, H. V. Dasari, S. Saha, A. Maurya**,  
+  *“Let’s Decipher the Origin: Towards Multimodal Aspect-Based Explainable Complaints in Finance,”*  
+  **IEEE Transactions on Computational Social Systems (IEEE TCSS), 2025**  
+  DOI: **10.1109/TCSS.2025.3623387**
+
+### ✍️ In Preparation
+- **H. V. Dasari, N. Muralidhar**,  
+  *“Extrusion Networks to Overcome the Curse of (Simulation) Dimensionality.”*
 
 ---
 
-## 🏆 Accomplishments
+## 🏆 Highlights
 
-- 🥇 **CodeChef Rating: 1806** (C++) - Strong algorithmic problem-solving foundation
-- 📄 **Published Research** in explainable AI and multi-modal learning (IEEE Q1 Journal)
-- 🎓 **3.95 GPA** in MS Computer Science @ Stevens Institute of Technology
-- 🔬 Multiple research contributions in AI/ML with real-world impact
+- 🥇 **CodeChef Rating: 1806** (C++)
+- 🏆 **QuackHack Winner** (Chubb-sponsored track)
+- 🎓 **MS GPA: 3.97** @ Stevens Institute of Technology
+- 🔬 Research in explainable AI, multimodal NLP, and scientific machine learning
 
 ---
 
 <div align="center">
 
-## 📫 Let's Connect!
-
-I'm always excited to discuss AI/ML opportunities, research collaborations, or innovative projects!
+## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsha-vardhan-dasari-460b23200/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Hdasari@stevens.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshadasari451)
 
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=harshadasari451&color=blue&style=for-the-badge)
 
-**⭐ Open to Full-Time Opportunities | Data Analytics | Data Engineering | Data Science | ML Engineering | AI Engineering**
+**⭐ Open to Full-Time Opportunities | ML Engineering | AI Engineering | Data Science**
 
 </div>
